@@ -45,20 +45,20 @@ Firewall
 Manipulations d'autres outils/protocoles côté client
 DHCP
 afficher l'adresse IP du serveur DHCP du réseau WiFi YNOV:
-![adresseDHCP](Capture3.png)
+![adresseDHCP](Capture3.PNG)
 Trouver la date d'expiration de votre bail DHCP
-![date expiration DHCP](Capture4.png)
+![date expiration DHCP](Capture4.PNG)
 demandez une nouvelle adresse IP (en ligne de commande)
 ipconfig /release
 ipconfig /renew
 
 DNS
 trouver l'adresse IP du serveur DNS que connaît votre ordinateur
-![adresseDNS](Capture7.png)
+![adresseDNS](Capture7.PNG)
 
 utiliser, en ligne de commande l'outil nslookup (Windows, MacOS) ou dig (GNU/Linux, MacOS) pour faire des requêtes DNS à la main
 faites un lookup (lookup = "dis moi à quelle IP se trouve tel nom de domaine")
-![requetecmd](Capture5.png)
+![requetecmd](Capture5.PNG)
 
 faites un reverse lookup
-![reverserequetecmd](Capture6.png)
+![reverserequetecmd](Capture6.PNG)
