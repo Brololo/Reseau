@@ -13,11 +13,13 @@ J'AI PAS ETHERNET SORRY
 Utilisez une commande pour connaître l'adresse IP de la passerelle de votre carte WiFi:
 Passerelle par défaut. . . . . . . . . : 10.33.3.253
 
-Trouvez l'IP, la MAC et la gateway pour l'interface WiFi de votre PC : right click sur l'icone wifi -> ouvrir les paramètres réseau et internet -> modifier les options d'adaptateurs -> click droit sur le wifi -> status -> détails ->et on regarder les informations ![screen1](Capture.PNG)
+Trouvez l'IP, la MAC et la gateway pour l'interface WiFi de votre PC : right click sur l'icone wifi -> ouvrir les paramètres réseau et internet -> modifier les options d'adaptateurs -> click droit sur le wifi -> status -> détails ->et on regarder les informations
+![screen1](Capture.PNG)
 
 A quoi sert la gateway dans le réseau d'YNOV ? : Elle nous sert de plateforme pour accéder à un autre réseau, ou internet.
 
-Changement d'adresse ip avec une intarface ![screen2](Capture2.PNG)
+Changement d'adresse ip avec une intarface
+![screen2](Capture2.PNG)
 
 J'ai perdu internet car l'adresse ip que j'ai rentrée était déjà prise.
 
